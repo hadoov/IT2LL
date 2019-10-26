@@ -1,4 +1,4 @@
-# IT2LL (Fast Type-2 
+# IT2LL (Fast Type-2 Fuzzy Neural Network)
 Interval Type-2 Locally Linear Neuro Fuzzy Model Based on Locally Linear Model Tree
 
 In this project a new interval Type-2 fuzzy neural network will be presented for function approximation. The proposed neural network is based on Locally Linear Model Tree (LOLIMOT) which is a fast learning algorithm for Locally Linear Neuro-Fuzzy Models (LLNFM). In this research, main measures are to be robust in presence of outlier data and be fast in refining steps. The proposed combination between LOLIMOT learning algorithm and interval type-2 fuzzy logic systems presents a good performance both in robustness and speed measures. The results show that the proposed method has good robustness in presence of noise as we can see in experiments conducted using corrupted data.
